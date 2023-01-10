@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	background-size: auto 100%;
+	line-height:2em;
+}
+
+#tartalom
+{
+	background-color: rgba(255,255,255,0.7);
+	box-shadow: 10px 10px 10px 5px rgba(0,0,0,0.7);
+}
+
+h2, dt
+{
+	font-variant:small-caps;
+}
+
+ul
+{
+	list-style-position:inside;
+}
+
+ol
+{
+	list-style-type:georgian;
+	list-style-position:inside;
+}
+
+.tabla
+{
+	width:100%;
+}
+
+hr
+{
+	width:100%;
+	border-color:#16203b;	
+}
+
+iframe
+{
+	width:560px;
+	height:315px; 
+}
+
